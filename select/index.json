@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "けもの道",
+  "base_artist": "Spitz",
+  "createdAt": "2026-02-13T13:58:29.570888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "けもの道",
+      "artist": "Cocco",
+      "has_synced": false,
+      "path": "select/01_けもの道_Cocco.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "けもの道",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_けもの道_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "けもの道",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_けもの道_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "けもの道",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_けもの道_スピッツ.txt"
+    }
+  ]
+}
